@@ -1,0 +1,15 @@
+c:\users\libby\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+c:\users\libby\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+c:\users\libby\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+c:\users\libby\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.xml
+c:\users\libby\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.vbprojResolveAssemblyReference.cache
+c:\users\libby\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Form1.resources
+c:\users\libby\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Resources.resources
+c:\users\libby\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.vbproj.GenerateResource.Cache
+c:\users\libby\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+c:\users\libby\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.xml
+c:\users\libby\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\Libby\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.manifest
+C:\Users\Libby\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.application
+C:\Users\Libby\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe.manifest
+C:\Users\Libby\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.application
